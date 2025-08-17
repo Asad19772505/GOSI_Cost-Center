@@ -1,0 +1,5 @@
+streamlit>=1.36
+pandas>=2.2
+openpyxl>=3.1
+xlsxwriter>=3.2
+pyarrow>=17.0
